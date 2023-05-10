@@ -7,3 +7,4 @@ Aplication that shows a diverse list of games and their respective informations.
      Java
      Spring and Spring Boot
      PostgreSQL
+     Postman
