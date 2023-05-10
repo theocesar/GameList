@@ -8,3 +8,4 @@ Aplication that shows a diverse list of games and their respective informations.
      Spring and Spring Boot
      PostgreSQL
      Postman
+     H2
