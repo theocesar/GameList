@@ -1,7 +1,8 @@
-# GameList
+# Game List
 
-Aplication that shows a diverse list of games and their respective informations. 
-#### CURRENTLY IN PROGRESS
+## About the project:
+Back-End aplication that shows a diverse list of games and their respective informations. 
+
 
 ### TECHNOLOGIES USED (Back-End only):
      Java
