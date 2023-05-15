@@ -22,4 +22,5 @@ The aplication contains a diverse list of games and their respective information
 - Maven
 - H2 Test Database
 - PostgreSQL Production Database
+- Postman
 
