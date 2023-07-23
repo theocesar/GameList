@@ -1,7 +1,7 @@
 # Game List
 
 ## About the project
-Game List is a back-end application built during Intensivão Java Spring, an event organized by DevSuperior. 
+Game List is a back-end application built during ''Java Spring Intensive'', an event organized by DevSuperior. 
 
 The aplication contains a diverse list of games and their respective informations. 
 
