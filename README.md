@@ -1,6 +1,8 @@
 # Game List
 
-## About the project
+<br>
+
+## __About the project__
 Game List is a back-end application built during ''Java Spring Intensive'', an event organized by DevSuperior. 
 
 The aplication contains a diverse list of games and their respective informations. 
@@ -11,8 +13,11 @@ The aplication contains a diverse list of games and their respective information
 ## Domain Model
 ![domain_model](https://github.com/theocesar/GameList/assets/83956615/1bbda667-a4b5-4e90-8ddd-5f1bcc111351)
 
+<br>
 
 ## TECHNOLOGIES USED:
+
+<br>
 
 ## Back-End
 
